@@ -13,4 +13,6 @@ This is a regression model for expected BABIP (xBABIP) prediction, especially fo
 This statistic is commonly used to evaluate a baseball hitter's "luck"
 For a detailed definition and explanation, visit FanGraphs: https://library.fangraphs.com/pitching/babip/
 
+---
+will be updated
 
