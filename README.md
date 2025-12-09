@@ -7,7 +7,8 @@ xBABIP prediction for MLB rookie players<br>
 
 ---
 
-This is a regression model for expected BABIP (xBABIP) prediction, especially for first-year players
+This is a regression model for expected BABIP (xBABIP) prediction, especially for first-year players.
+( highly recommended for Fantasy Baseball players )
 
 - Batting Average on Balls In Play (BABIP)<br>
 This statistic is commonly used to evaluate a baseball hitter's "luck"
